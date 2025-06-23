@@ -42,11 +42,5 @@ The objective is to **minimize** the function value, ideally reaching **f(x) = 0
 
 ---
 
-## 📷 Screenshots
-*(You can add a screenshot of the output window or graph if available.)*
-
----
-
-## 🧪 Example Output
-
+Ahmet Burak Akbaş
 
